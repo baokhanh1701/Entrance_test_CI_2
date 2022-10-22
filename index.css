@@ -419,6 +419,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
+    box-shadow: 0px 8px 23px rgba(195, 198, 207, 0.7);
     border: 1px solid #151b32;
 }
 
